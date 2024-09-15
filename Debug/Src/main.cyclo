@@ -1,0 +1,9 @@
+D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/CMSIS/Include/core_cm3.h:1547:22:__NVIC_DisableIRQ	2
+../Src/main.c:15:5:main	6
+../Src/main.c:91:6:Error_Handler	1
+../Src/main.c:98:6:initBuffer	1
+../Src/main.c:106:6:isFull	1
+../Src/main.c:112:6:isEmpty	1
+../Src/main.c:118:6:writeBuffer	2
+../Src/main.c:134:6:readBuffer	2

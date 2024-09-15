@@ -1,0 +1,2 @@
+../Drivers/Peripheral_Drivers/Source/EEPROM.c:7:6:EEPROM_Write	32	static
+../Drivers/Peripheral_Drivers/Source/EEPROM.c:21:6:EEPROM_Read	32	static

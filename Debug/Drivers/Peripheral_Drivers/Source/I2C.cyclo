@@ -1,0 +1,7 @@
+../Drivers/Peripheral_Drivers/Source/I2C.c:6:6:I2C_Config	1
+../Drivers/Peripheral_Drivers/Source/I2C.c:26:6:I2C_Start	2
+../Drivers/Peripheral_Drivers/Source/I2C.c:33:6:I2C_Write	3
+../Drivers/Peripheral_Drivers/Source/I2C.c:40:6:I2C_Address	2
+../Drivers/Peripheral_Drivers/Source/I2C.c:47:6:I2C_Stop	1
+../Drivers/Peripheral_Drivers/Source/I2C.c:52:6:I2C_WriteMulti	7
+../Drivers/Peripheral_Drivers/Source/I2C.c:72:6:I2C_Read	9

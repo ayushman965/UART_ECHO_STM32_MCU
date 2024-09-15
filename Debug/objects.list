@@ -1,0 +1,8 @@
+"./Drivers/Peripheral_Drivers/Source/EEPROM.o"
+"./Drivers/Peripheral_Drivers/Source/I2C.o"
+"./Drivers/Peripheral_Drivers/Source/RCC_CLOCK.o"
+"./Drivers/Peripheral_Drivers/Source/UART.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f103c8tx.o"

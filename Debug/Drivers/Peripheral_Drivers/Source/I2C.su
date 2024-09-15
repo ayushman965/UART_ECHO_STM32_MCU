@@ -1,0 +1,7 @@
+../Drivers/Peripheral_Drivers/Source/I2C.c:6:6:I2C_Config	4	static
+../Drivers/Peripheral_Drivers/Source/I2C.c:26:6:I2C_Start	4	static
+../Drivers/Peripheral_Drivers/Source/I2C.c:33:6:I2C_Write	16	static
+../Drivers/Peripheral_Drivers/Source/I2C.c:40:6:I2C_Address	24	static
+../Drivers/Peripheral_Drivers/Source/I2C.c:47:6:I2C_Stop	4	static
+../Drivers/Peripheral_Drivers/Source/I2C.c:52:6:I2C_WriteMulti	24	static
+../Drivers/Peripheral_Drivers/Source/I2C.c:72:6:I2C_Read	24	static
