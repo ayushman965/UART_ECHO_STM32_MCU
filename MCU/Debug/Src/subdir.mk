@@ -22,7 +22,7 @@ C_DEPS += \
 
 # Each subdirectory must supply rules for building sources it contributes
 Src/%.o Src/%.su Src/%.cyclo: ../Src/%.c Src/subdir.mk
-	arm-none-eabi-gcc "$<" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C8Tx -c -I../Inc -I"D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/CMSIS/Include" -I"D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/CMSIS/Device/ST/STM32F1xx/Include" -I"D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/Peripheral_Drivers/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfloat-abi=soft -mthumb -o "$@"
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C8Tx -c -I../Inc -I"D:/New folder/UART_ECHO_STM32_MCU-main/UART_ECHO_STM32_MCU-main/MCU/Drivers/CMSIS/Device/ST/STM32F1xx/Include" -I"D:/New folder/UART_ECHO_STM32_MCU-main/UART_ECHO_STM32_MCU-main/MCU/Drivers/Peripheral_Drivers/Include" -I"D:/New folder/UART_ECHO_STM32_MCU-main/UART_ECHO_STM32_MCU-main/MCU/Drivers/CMSIS/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfloat-abi=soft -mthumb -o "$@"
 
 clean: clean-Src
 

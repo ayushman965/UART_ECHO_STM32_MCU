@@ -61,7 +61,7 @@ int main(void)
 			Delay_ms(10);		//10ms of delay is required after byte/page read/write from EEPROM
 		}
 
-		if(eeprom_address >= 1010)		//Once the complete paragraph is received and simultaneously written into eeprom, processor starts PAGE reading the data from EEPROM.
+		if(eeprom_address >= 1009)		//Once the complete paragraph is received and simultaneously written into eeprom, processor starts PAGE reading the data from EEPROM.
 		{
 			NVIC_DisableIRQ(USART1_IRQn);		//Disabling UART1 Rx Interrupt since the complete data has been received.
 

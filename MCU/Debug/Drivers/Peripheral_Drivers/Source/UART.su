@@ -1,4 +1,4 @@
-D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+D:/New folder/UART_ECHO_STM32_MCU-main/UART_ECHO_STM32_MCU-main/MCU/Drivers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
 ../Drivers/Peripheral_Drivers/Source/UART.c:5:6:uart_init	8	static
 ../Drivers/Peripheral_Drivers/Source/UART.c:20:6:uart_send_char	16	static
 ../Drivers/Peripheral_Drivers/Source/UART.c:29:6:USART1_IRQHandler	8	static

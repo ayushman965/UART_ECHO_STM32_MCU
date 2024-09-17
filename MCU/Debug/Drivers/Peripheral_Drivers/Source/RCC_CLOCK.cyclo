@@ -1,4 +1,4 @@
-D:/THRSL/CubeIDE_Workspace/UART_ECHO_FIRMWARE_TASK_1/Drivers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	2
+D:/New folder/UART_ECHO_STM32_MCU-main/UART_ECHO_STM32_MCU-main/MCU/Drivers/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	2
 ../Drivers/Peripheral_Drivers/Source/RCC_CLOCK.c:10:6:SysTick_Handler	1
 ../Drivers/Peripheral_Drivers/Source/RCC_CLOCK.c:16:6:SysTick_Init	1
 ../Drivers/Peripheral_Drivers/Source/RCC_CLOCK.c:33:6:Delay_ms	2
