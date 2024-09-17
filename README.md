@@ -11,3 +11,4 @@
  Logic Analyzer has been used to visulaize and debug I2C and UART packets.__
 
 ![EEPROM Module](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/eeprom_module.jpg)
+![MCU](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/STM32F103C8T6_Blue_Pill.jpg)
