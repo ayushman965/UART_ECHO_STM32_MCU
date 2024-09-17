@@ -9,4 +9,4 @@
  EEPROM is M24M02 (I2C Based EEPROM)
  Logic Analyzer has been used to visulaize and debug I2C and UART packets.
 
-![EEPROM Module](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/eeprom_mode.jfif)
+![EEPROM Module](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/eeprom_module.jpg)
