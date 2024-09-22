@@ -12,7 +12,7 @@
  FT232 USB TO UART Converter__
 
 <p align="center">
-  <img src="[image_url](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/Block_diagram_uart.drawio.png)" alt="Alt Text" />
+  <img src="https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/Block_diagram_uart.drawio.png" alt="Block Diagram UART" />
 </p>
 ![MCU](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/STM32F103C8T6_Blue_Pill.jpg)
 ![EEPROM Module](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/eeprom_module.jpg)
