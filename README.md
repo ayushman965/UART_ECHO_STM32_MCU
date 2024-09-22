@@ -14,6 +14,12 @@
 <p align="center">
   <img src="https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/Block_diagram_uart.drawio.png" alt="Block Diagram UART" />
 </p>
-![MCU](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/STM32F103C8T6_Blue_Pill.jpg)
-![EEPROM Module](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/eeprom_module.jpg)
-![FT232 Module](https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/FT232.jpg)
+<p align="center">
+  <img src="https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/STM32F103C8T6_Blue_Pill.jpg" alt="STM32F103C8T6_Blue_Pill" />
+</p>
+<p align="center">
+  <img src="https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/eeprom_module.jpg" alt="eeprom_module" />
+</p>
+<p align="center">
+  <img src="https://github.com/ayushman965/UART_ECHO_STM32_MCU/blob/main/Pictures/FT232.jpg" alt="Pictures/FT232" />
+</p>
